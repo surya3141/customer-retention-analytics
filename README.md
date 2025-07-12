@@ -251,9 +251,8 @@ Interested in improving this project? Contributions are welcome!
 
 ## 📧 Contact
 
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: your.email@example.com
-- **Portfolio**: [Your Portfolio Website]
+- **LinkedIn**: https://www.linkedin.com/in/surya-arul
+- **Email**: arulsurya05@gmail.com 
 
 ## 📝 License
 
